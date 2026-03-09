@@ -1,2 +1,6 @@
 ZAWADZKA Matéo
 TROUILLARD Hugo
+
+Explication:
+Le fichier n'a été créé et sauvegardé que sur la branche "mon_fichier", il n'a jamais été sauvegardé dans la branche master donc le fichier n'apparait pas dans master.
+
